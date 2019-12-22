@@ -27,7 +27,7 @@ SECRET_KEY = 'your secret key'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://todoappp29.herokuapp.com']
 
 # Application definition
 
